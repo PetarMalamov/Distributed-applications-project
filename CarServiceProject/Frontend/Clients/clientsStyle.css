@@ -1,0 +1,12 @@
+#nav{
+  background-color: #34495e;
+  padding: 0 3%;
+}
+
+#info{
+  margin-top: 5%;
+  padding: 0 3%;
+}
+.active{
+  color: red;
+}
